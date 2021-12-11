@@ -14,9 +14,7 @@ from functionforDownloadButtons import download_button
 import streamlit as st
 from PIL import Image
 
-import seaborn as sns
-import pandas as pd 
-import numpy as np
+
 
 def _max_width_():
     max_width_str = f"max-width: 1800px;"
